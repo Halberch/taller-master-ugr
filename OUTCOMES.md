@@ -100,7 +100,7 @@ Date:   Mon Jan 12 19:19:39 2026 +0100
 
     Merge footer with resolved conflicts
 
----
+```
 
 ## 🎯 Key Learnings
 
