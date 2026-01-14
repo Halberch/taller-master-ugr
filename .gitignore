@@ -1,0 +1,58 @@
+
+# =========================
+# Environment files
+# =========================
+.env
+.env.*
+*.env
+
+# =========================
+# API keys and credentials
+# =========================
+*.key
+*.pem
+*.crt
+*.cert
+*.p12
+*.pfx
+*.jks
+*.secret
+*.token
+*.credentials
+*.config.json
+*.config.yaml
+
+# =========================
+# Security-related files
+# =========================
+id_rsa
+id_rsa.pub
+ssh_config
+*.gpg
+*.asc
+
+# =========================
+# Backup files
+# =========================
+*.bak
+*.old
+*.tmp
+
+# =========================
+# Logs
+# =========================
+*.log
+
+# =========================
+# IDE / Editor
+# =========================
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# =========================
+# OS-specific
+# =========================
+.DS_Store
+Thumbs.db
